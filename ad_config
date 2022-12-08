@@ -1,3 +1,5 @@
 {
-"showReward": true
+"showReward": true,
+"starterShowAd":true,
+"downloadShowAd":true
 }
