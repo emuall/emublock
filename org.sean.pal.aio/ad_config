@@ -1,6 +1,6 @@
 {
-"showReward": false,
-"showReward2": false,
-"starterShowAd":false,
-"downloadShowAd":false
+"showReward": true,
+"showReward2": true,
+"starterShowAd":true,
+"downloadShowAd":true
 }
