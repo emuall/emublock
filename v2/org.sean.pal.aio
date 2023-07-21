@@ -4,5 +4,5 @@
   "updateStatus": 2,
   "downloadWebUrl":"https://www.baidu.com/",
   "modifyContent":"baidu",
-  "checkUpdate":true
+  "checkUpdate":false
 }
