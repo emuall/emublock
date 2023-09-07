@@ -2,7 +2,8 @@
 "newDay": 0,
 "newUserDay": 0,
 "showReward": true,
-"showReward2": true,
+"showReward2": true,compliance
 "starterShowAd":true,
+"compliance":true,
 "downloadShowAd":true
 }
