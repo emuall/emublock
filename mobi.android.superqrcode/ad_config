@@ -1,8 +1,8 @@
 {
 "newDay": 0,
 "newUserDay": 0,
-"showReward": false,
-"showReward2": false,
-"starterShowAd":false,
-"downloadShowAd":false
+"showReward": true,
+"showReward2": true,
+"starterShowAd":true,
+"downloadShowAd":true
 }
