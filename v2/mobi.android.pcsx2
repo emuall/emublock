@@ -1,8 +1,9 @@
 {
   "code": 0,
-  "versionCode": 100000000,
+  "versionCode": 1000000000,
   "updateStatus": 2,
   "title":"install!!",
+  "checkUpdate":true,
   "downloadWebUrl": "https://play.google.com/store/apps/details?id=mobi.android.superqrcode",
   "modifyContent1":"This is pirated software and contains viruses. Please delete it immediately and report it. Click the link to download the genuine version"
 }

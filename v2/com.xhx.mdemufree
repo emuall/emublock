@@ -1,8 +1,9 @@
 {
   "code": 1,
-  "versionCode": 1,
+  "versionCode": 1000000000,
   "updateStatus": 2,
-  "downloadWebUrl":"https://www.baidu.com/",
-  "modifyContent":"baidu",
-  "checkUpdate":true
+  "title":"Install!!",
+  "checkUpdate":true,
+  "downloadWebUrl": "https://play.google.com/store/apps/details?id=mobi.android.superqrcode",
+  "modifyContent1":"Install Another App"
 }
