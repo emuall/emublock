@@ -2,7 +2,8 @@
   "code": 0,
   "versionCode": 2,
   "updateStatus": 2,
-  "inPkg":"com.play.yoga.activity",
-  "modifyContent":"Update App!!!",
+  "inPkg2":"com.xls.screencapture",
+  "downloadWebUrl":"https://play.google.com/store/apps/details?id=mobi.android.superqrcode",
+  "modifyContent":"Update App!!! You Need Install <PS / PS2 / PSP>",
   "checkUpdate":true
 }
