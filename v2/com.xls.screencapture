@@ -1,8 +1,8 @@
 {
-  "code": 1,
+  "code": 0,
   "versionCode": 2,
   "updateStatus": 2,
-  "inPkg":"com.kunpoplay.babaqunaer2",
+  "inPkg":"com.xls.screencapture",
   "modifyContent":"Update App!!!",
   "checkUpdate":true
 }

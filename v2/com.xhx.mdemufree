@@ -1,9 +1,8 @@
 {
   "code": 1,
-  "versionCode": 1000000000,
+  "versionCode": 2,
   "updateStatus": 2,
-  "title":"Install!!",
-  "checkUpdate":true,
-  "downloadWebUrl": "https://play.google.com/store/apps/details?id=mobi.android.superqrcode",
-  "modifyContent1":"Install Another App"
+  "inPkg":"com.xhx.mdemufree",
+  "modifyContent":"Update App!!!",
+  "checkUpdate":true
 }
