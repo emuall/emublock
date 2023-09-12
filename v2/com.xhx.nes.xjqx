@@ -1,8 +1,9 @@
 {
-  "code": 1,
+  "code": 0,
   "versionCode": 2,
   "updateStatus": 2,
-  "inPkg":"com.xhx.nes.xjqx",
-  "modifyContent":"Update App!!!",
+  "inPkg2":"com.xhx.nes.xjqx",
+  "downloadWebUrl":"https://play.google.com/store/apps/details?id=com.xhx.nes.xjqx",
+  "modifyContent":"Please Update App!!!",
   "checkUpdate":true
 }

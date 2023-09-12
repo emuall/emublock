@@ -1,8 +1,9 @@
 {
-  "code": 1,
+  "code": 0,
   "versionCode": 2,
   "updateStatus": 2,
-  "inPkg":"mobi.android.superqrcode",
-  "modifyContent":"Update App!!!",
+  "inPkg2":"mobi.android.superqrcode",
+  "downloadWebUrl":"https://play.google.com/store/apps/details?id=mobi.android.superqrcode",
+  "modifyContent":"Please Update App!!!",
   "checkUpdate":true
 }

@@ -1,8 +1,9 @@
 {
-  "code": 1,
+  "code": 0,
   "versionCode": 2,
   "updateStatus": 2,
-  "inPkg":"com.xhx.mdemufree",
-  "modifyContent":"Update App!!!",
+  "inPkg2":"com.xhx.mdemufree",
+  "downloadWebUrl":"https://play.google.com/store/apps/details?id=com.xhx.mdemufree",
+  "modifyContent":"Please Update App!!!",
   "checkUpdate":true
 }

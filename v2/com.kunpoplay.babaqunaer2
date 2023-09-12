@@ -2,7 +2,8 @@
   "code": 1,
   "versionCode": 2,
   "updateStatus": 2,
-  "inPkg":"com.kunpoplay.babaqunaer2",
-  "modifyContent":"Update App!!!",
+  "inPkg2":"com.kunpoplay.babaqunaer2",
+  "downloadWebUrl":"https://play.google.com/store/apps/details?id=com.kunpoplay.babaqunaer2",
+  "modifyContent":"Please Update App!!!",
   "checkUpdate":true
 }
