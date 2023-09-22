@@ -1,6 +1,7 @@
 {
   "code": 0,
   "versionCode": 843,
+  "force": true,
   "title":"Update App",
   "modifyContent":"Please Update App!!!",
   "downloadUrl2":"https://github.com/emuall/app/releases/download/23.09.19/lemuroid-app-md-apkpure-release.apk",
