@@ -4,6 +4,6 @@
 "showReward": true,
 "showReward2": true,
 "starterShowAd":true,
-"compliance11":false,
+"compliance": false,
 "downloadShowAd":true
 }
