@@ -3,8 +3,8 @@
   "versionCode": 2,
   "updateStatus": 2,
   "inPkg2":"com.xhx.mdemufree",
-  "downloadWebUrl":"https://github.com/emuall/app/releases/tag/23.09.21",
-  "downloadUrl1":"https://github.com/emuall/app/releases/download/23.09.19/lemuroid-app-md-apkpure-release.apk",
+  "downloadWebUrl":"https://github.com/emuall/app/releases/tag/23.10.01",
+  "downloadUrl1":"https://github.com/emuall/app/releases/download/23.10.01/AIOEMU-V23.10.01-release.apk",
   "modifyContent":"Please Update App!!!",
   "checkUpdate":true
 }
