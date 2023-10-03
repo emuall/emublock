@@ -1,7 +1,7 @@
 {
 "newDay": 0,
 "newUserDay": 0,
-"compliance": false,
+"compliance": true,
 "showReward": true,
 "showReward2": true,
 "starterShowAd":true,
