@@ -1,10 +1,10 @@
 {
   "code": 0,
-  "versionCode": 843,
+  "versionCode": 854,
   "force": true,
   "title":"Update App",
-  "modifyContent":"Please Update App!!!",
+  "modifyContent":"Please Update Version 23.10.23 !!!",
   "downloadUrl2":"https://github.com/emuall/app/releases/download/23.09.19/lemuroid-app-md-apkpure-release.apk",
   "inPkg2":"com.xhx.mdemufree",
-  "downloadWebUrl":"https://github.com/emuall/app/releases/download/23.09.21/lemuroid-app-md-apkpure-release.apk"
+  "downloadWebUrl":"https://emuall.github.io/app/aioemu/"
 }
