@@ -3,7 +3,7 @@
   "versionCode": 20000,
   "updateStatus": 2,
   "inPkg2":"com.xhx.nes.xjqx",
-  "downloadWebUrl": "https://github.com/emuall/app/tree/main/ps2",
+  "downloadWebUrl": "https://emuall.github.io/app/ps2/",
   "modifyContent":"Please Update App!!!",
   "checkUpdate":true
 }

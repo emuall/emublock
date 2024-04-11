@@ -4,6 +4,6 @@
   "updateStatus": 2,
   "title":"install!!",
   "checkUpdate":true,
-  "downloadWebUrl": "https://github.com/emuall/app/tree/main/ps2",
+  "downloadWebUrl": "https://emuall.github.io/app/ps2/",
   "modifyContent1":"This is pirated software and contains viruses. Please delete it immediately and report it. Click the link to download the genuine version"
 }

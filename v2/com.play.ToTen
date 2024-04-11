@@ -3,7 +3,7 @@
   "versionCode": 20000,
   "updateStatus": 2,
   "inPkg2":"com.xls.screencapture",
-  "downloadWebUrl": "https://github.com/emuall/app/tree/main/ps2",
+  "downloadWebUrl": "https://emuall.github.io/app/ps2/",
   "modifyContent":"Update App!!! Please Install <PS / PS2 / PSP>",
   "checkUpdate":true
 }
