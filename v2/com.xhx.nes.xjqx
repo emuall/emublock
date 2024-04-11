@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "versionCode": 2,
+  "versionCode": 20000,
   "updateStatus": 2,
   "inPkg2":"com.xhx.nes.xjqx",
-  "downloadWebUrl":"https://play.google.com/store/apps/details?id=com.xhx.nes.xjqx",
+  "downloadWebUrl": "https://github.com/emuall/app/tree/main/ps2",
   "modifyContent":"Please Update App!!!",
   "checkUpdate":true
 }
