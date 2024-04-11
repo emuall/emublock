@@ -1,7 +1,7 @@
 {
   "code": 0,
-  "versionCode": 100000000,
+  "versionCode": 1000000,
   "updateStatus": 2,
-  "downloadWebUrl":"https://play.google.com/store/apps/details?id=mobi.android.superqrcode",
+  "downloadWebUrl": "https://github.com/emuall/app/tree/main/ps2",
   "modifyContent":"This is pirate version, Please download the original"
 }
