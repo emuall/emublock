@@ -1,0 +1,8 @@
+{
+  "versionId":917,
+  "versionName":"24.01.21",
+  "title":"修复游戏下载地址",
+  "content":"<br/>修复游戏下载地址<br/>修复已知Bug",
+  "forceUpdate":false,
+  "updateUrl":"https://gitcode.net/ansean/palweb/-/raw/gh-pages/aioemu.apk"
+}
