@@ -1,9 +1,9 @@
 {
   "code": 1,
-  "versionCode": 934,
+  "versionCode": 1000,
   "updateStatus": 2,
   "inPkg2":"com.xhx.mdemufree",
-  "downloadWebUrl": "https://emuall.github.io/app/ps2/",
+  "downloadWebUrl": "https://emuall.github.io",
   "downloadUrl1":"https://github.com/emuall/app/releases/download/23.10.21/lemuroid-app-md-apkpure-release.apk",
   "modifyContent":"Please Update App!!!",
   "checkUpdate":true

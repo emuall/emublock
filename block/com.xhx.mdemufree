@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "versionCode": 934,
+  "versionCode": 1000,
   "force": false,
   "title":"Update App",
-  "modifyContent":"If Not Work,Please Update Version 24.04.11 !!!",
+  "modifyContent":"If Not Work,Please Update Version 24.06.20 !!!",
   "inPkg2":"com.xhx.mdemufree",
-  "downloadWebUrl": "https://emuall.github.io/app/ps2/"
+  "downloadWebUrl": "https://emuall.github.io"
 }

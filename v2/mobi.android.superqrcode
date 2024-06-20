@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "versionCode": 934,
+  "versionCode": 1000,
   "updateStatus": 2,
   "inPkg2":"mobi.android.superqrcode",
-  "downloadWebUrl": "https://emuall.github.io/app/ps2/",
+  "downloadWebUrl": "https://emuall.github.io",
   "modifyContent":"Please Update App!!!",
   "checkUpdate":true
 }
