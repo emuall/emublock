@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "versionCode": 934,
+  "versionCode": 1032,
   "updateStatus": 2,
   "inPkg2":"com.kunpoplay.babaqunaer2",
-  "downloadWebUrl": "https://emuall.github.io/app/ps2/",
-  "modifyContent":"Please Update App!!!",
+  "downloadWebUrl": "https://emuall.github.io",
+  "modifyContent":"Find new version 24.08.11,please update!",
   "checkUpdate":true
 }

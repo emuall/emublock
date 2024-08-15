@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "versionCode": 1000,
-  "force": true,
+  "versionCode": 1032,
+  "force": false,
   "title":"Update App",
-  "modifyContent":"Please Update Version 24.06.20 !!!",
+  "modifyContent":"Find new version 24.08.11,please update!",
   "downloadUrl2":"https://github.com/emuall/app/releases/download/23.09.19/lemuroid-app-md-apkpure-release.apk",
   "inPkg2":"com.xhx.mdemufree",
   "downloadWebUrl": "https://emuall.github.io"

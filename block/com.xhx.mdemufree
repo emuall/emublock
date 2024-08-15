@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "versionCode": 1000,
+  "versionCode": 1032,
   "force": false,
   "title":"Update App",
-  "modifyContent":"If Not Work,Please Update Version 24.06.20 !!!",
+  "modifyContent":"Find new version 24.08.11,please update!",
   "inPkg2":"com.xhx.mdemufree",
   "downloadWebUrl": "https://emuall.github.io"
 }
