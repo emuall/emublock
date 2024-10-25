@@ -1,8 +1,8 @@
 {
   "code": 0,
-  "versionCode": 1040,
+  "versionCode": 1146,
   "force": false,
-  "title":"New Version 24.08.30",
+  "title":"New Version 24.10.22",
   "modifyContent":"1.Fix Download Source \n2.Fix Crash Bugs \n3.Fix Load Core Error \n4.Add More Games \n",
   "downloadUrl2":"https://github.com/emuall/app/releases/download/23.09.19/lemuroid-app-md-apkpure-release.apk",
   "inPkg2":"com.xhx.mdemufree",

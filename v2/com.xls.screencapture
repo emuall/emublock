@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "versionCode": 934,
+  "versionCode": 1146,
   "updateStatus": 2,
+  "modifyContent":"Find new version 24.10.22,please update!",
   "inPkg2":"com.xls.screencapture",
-  "downloadWebUrl": "https://emuall.github.io/app/ps2/",
-  "modifyContent":"Update App!!! Please Install <PS / PS2 / PSP>",
+  "downloadWebUrl": "https://emuall.github.io",
   "checkUpdate":true
 }

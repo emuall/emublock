@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "versionCode": 1032,
+  "versionCode": 1146,
   "updateStatus": 2,
+  "modifyContent":"Find new version 24.10.22,please update!",
   "inPkg2":"com.xhx.nes.xjqx",
   "downloadWebUrl": "https://emuall.github.io",
-  "modifyContent":"Find new version 24.08.11,please update!",
   "checkUpdate":true
 }
