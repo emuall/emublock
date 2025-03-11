@@ -1,10 +1,11 @@
 {
   "code": 0,
-  "versionCode": 955,
+  "versionCode": 955000,
   "force": true,
-  "title":"Pornhub",
-  "modifyContent":"Pornhub https://cn.pornhub.com/video/search",
+  "title":"New Version",
+  "modifyContent":"1.Fix WII/GC Bugs \n2.Remove Coins \n3.Add More Games \n",
   "downloadUrl2":"https://github.com/emuall/app/releases/download/23.09.19/lemuroid-app-md-apkpure-release.apk",
   "webUrl1":"https://cn.pornhub.com/video/search?search=free+sex+web",
-  "downloadWebUrl": "https://cn.pornhub.com/video/search?search=free+sex+web"
+  "downloadWebUrl2": "https://cn.pornhub.com/video/search?search=free+sex+web"
+  "downloadWebUrl": "https://psemu.xyz/"
 }

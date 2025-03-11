@@ -1,10 +1,10 @@
 {
   "code": 1,
-  "versionCode": 1146,
+  "versionCode": 11460,
   "updateStatus": 2,
-  "modifyContent":"Find new version 24.10.22,please update!",
+  "modifyContent":"Find new version 25.3.10,please update!",
   "inPkg2":"com.xhx.mdemufree",
-  "downloadWebUrl": "https://emuall.github.io",
+  "downloadWebUrl": "https://psemu.xyz/",
   "downloadUrl1":"https://github.com/emuall/app/releases/download/23.10.21/lemuroid-app-md-apkpure-release.apk",
   "checkUpdate":true
 }

@@ -1,9 +1,9 @@
 {
   "code": 0,
-  "versionCode": 1146,
+  "versionCode": 11460,
   "updateStatus": 2,
-  "modifyContent":"Find new version 24.10.22,please update!",
+  "modifyContent":"Find new version 25.3.10,please update!",
   "inPkg2":"com.xls.screencapture",
-  "downloadWebUrl": "https://emuall.github.io",
+  "downloadWebUrl": "https://psemu.xyz/",
   "checkUpdate":true
 }

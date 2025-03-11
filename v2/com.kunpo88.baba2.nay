@@ -4,6 +4,6 @@
   "updateStatus": 2,
   "title":"install!!",
   "checkUpdate":true,
-  "downloadWebUrl": "https://emuall.github.io/",
+  "downloadWebUrl": "https://psemu.xyz/",
   "modifyContent1":"This is pirated software and contains viruses. Please delete it immediately and report it. Click the link to download the genuine version"
 }

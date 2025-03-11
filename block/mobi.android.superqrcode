@@ -1,10 +1,10 @@
 {
   "code": 0,
-  "versionCode": 1146,
+  "versionCode": 11460,
   "force": false,
-  "title":"New Version 24.10.22",
-  "modifyContent":"1.Fix Download Source \n2.Fix Crash Bugs \n3.Fix Load Core Error \n4.Add More Games \n",
+  "title":"New Version 25.3.10",
+  "modifyContent":"1.Fix WII/GC Bugs \n2.Remove Coins \n3.Add More Games \n",
+  "downloadWebUrl": "https://psemu.xyz/",
   "downloadUrl2":"https://github.com/emuall/app/releases/download/23.09.19/lemuroid-app-md-apkpure-release.apk",
-  "inPkg2":"com.xhx.mdemufree",
-  "downloadWebUrl": "https://emuall.github.io"
+  "inPkg2":"com.xhx.mdemufree"
 }

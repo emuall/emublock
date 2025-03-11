@@ -1,8 +1,8 @@
 {
   "code": 1,
-  "versionCode": 1,
+  "versionCode": 100000,
   "updateStatus": 2,
-  "downloadWebUrl":"https://www.baidu.com/",
-  "modifyContent":"baidu",
+  "downloadWebUrl": "https://psemu.xyz/",
+  "modifyContent":"Find new version 25.3.10,please update!",
   "checkUpdate":true
 }
